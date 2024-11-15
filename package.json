@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "smart-school",
   "private": true,
   "scripts": {
     "build": "turbo build",
